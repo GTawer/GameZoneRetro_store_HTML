@@ -85,9 +85,7 @@ A tabela de preços inclui jogos como **Super Mario Bros**, **Sonic** e **Zelda*
 
 ## 🖥️ Visualização do projeto
 
-> *Insira aqui um print da página GameZone Retro em funcionamento.*
-
-![Preview do projeto](Preview_Site.png)
+<img src="Preview_Site.jpg" width="800" alt="GameZone Retro">
 
 ## 🎯 Resultado
 
