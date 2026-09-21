@@ -31,7 +31,7 @@ A atividade foi desenvolvida na disciplina de **Linguagem de Marcação (LIMA)**
 | Disciplina | LIMA |
 | Foco | Estrutura e funcionalidade |
 
-## 🧩 Elementos HTML utilizados
+## Elementos HTML utilizados
 
 A página reúne os cinco elementos essenciais solicitados no desafio:
 
@@ -55,6 +55,7 @@ A **GameZone Retro** apresenta alguns consoles clássicos, como:
 - Atari 2600
 
 A tabela de preços inclui jogos como **Super Mario Bros**, **Sonic** e **Zelda**, cada um associado ao seu console e valor.
+<im
 
 ## 🛠️ Tecnologias e ferramentas utilizadas
 
@@ -86,7 +87,7 @@ A tabela de preços inclui jogos como **Super Mario Bros**, **Sonic** e **Zelda*
 
 > *Insira aqui um print da página GameZone Retro em funcionamento.*
 
-![Preview do projeto](./print.png)
+![Preview do projeto](Preview_Site.png)
 
 ## 🎯 Resultado
 
