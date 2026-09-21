@@ -85,13 +85,17 @@ A tabela de preços inclui jogos como **Super Mario Bros**, **Sonic** e **Zelda*
 
 ## 🖥️ Visualização do projeto
 
-<img src="Preview_Site.jpg" width="800" alt="GameZone Retro">
+<img src="https://raw.githubusercontent.com/GTawer/GameZoneRetro_store_HTML/refs/heads/main/HTML_Aula1_Estruturas%20B%C3%A1sicas/GameZone%20Retro_HTML/Preview_Site.png" width="500" alt="GameZone Retro">
 
-## 🎯 Resultado
+---
+
+### Resultado
 
 O resultado é uma página simples e funcional que apresenta a proposta de uma loja de games retro utilizando apenas **HTML**, atendendo aos elementos essenciais definidos no desafio.
 
 O código foi desenvolvido com foco em **concisão, organização e funcionalidade**, respeitando a proposta de criar uma página com no máximo 50 linhas.
+
+---
 
 ## 🎓 Atividade acadêmica
 
@@ -115,7 +119,7 @@ A proposta também reforça a importância de manter um código **limpo, organiz
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/2Xnh-2tG8pYAAAAi/scott-pilgrim-scott-pilgrim-takes-off.gif" width="275" height="auto" alt="Scott Pilgrim GIF" />
+  <img src="https://media1.tenor.com/m/yaqDwx9riRMAAAAC/scott-pilgrim-vs-the-world-the-game-league-of-evil-exes.gif" width="275" height="auto" alt="Scott Pilgrim GIF" />
 </p>
 
 <div align="center">
