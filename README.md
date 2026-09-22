@@ -89,7 +89,7 @@ A tabela de preços inclui jogos como **Super Mario Bros**, **Sonic** e **Zelda*
 
 ---
 
-### Resultado
+### ◈ Resultado
 
 O resultado é uma página simples e funcional que apresenta a proposta de uma loja de games retro utilizando apenas **HTML**, atendendo aos elementos essenciais definidos no desafio.
 
